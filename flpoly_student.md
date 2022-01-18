@@ -1,23 +1,22 @@
-## First Name Last Name
+## Yordanos J
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Optimization and Simulation
 
-- Course 2
+- Data Wrangling and Exploratory Data Analysis
 
-- Course 3
+- Time Series Analysis for Business, Data Science, & Economics
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Sketch Drawing
 
-- Thing 2
+- Hair Styling
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Movies/Music
